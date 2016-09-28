@@ -1,5 +1,5 @@
 # Project: Toontown Two
-# MakeAToon.py
+# MakeAToonCamera.py
 # Created by: Factobot (Storm)
 
 from direct.interval.IntervalGlobal import *
