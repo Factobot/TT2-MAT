@@ -1,3 +1,7 @@
+# Project: Toontown Two
+# MakeAToon.py
+# Created by: Factobot (Storm)
+
 from direct.gui.DirectGui import *
 from direct.interval.IntervalGlobal import *
 from panda3d.core import *
